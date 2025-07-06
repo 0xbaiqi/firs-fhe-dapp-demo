@@ -94,11 +94,3 @@ first-dapp-demo/
 │   └── App.jsx    # 主应用组件
 └── ...
 ```
-
-## 贡献
-
-欢迎提交 Issue 和 Pull Request。
-
-## 许可证
-
-[添加你的许可证信息]
